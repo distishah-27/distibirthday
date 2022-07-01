@@ -1,0 +1,54 @@
+.App{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.Div input{
+  background-color: antiquewhite;
+  border-radius: 5px;
+}
+.Div label{
+  background-color: antiquewhite;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 5px;
+  color: black;
+}
+.Div p{
+  color: antiquewhite;
+  padding-left: 5%;
+  margin-bottom: 10px;
+}
+h1{
+  color: #A27B5C;
+  font-size: 350%;
+  font-weight: 50;
+  margin-bottom: 0px;
+}
+.under{
+  color: #678081;
+  padding-left: 2px;
+  font-size: 18px;
+  padding-left: 5px;
+}
+.desc{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: black;
+  font-size: 15px;
+  background-color: antiquewhite;
+  padding: 10px;
+  border-radius: 10px;
+}
+.sect{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+h3{
+  color: #A27B5C;
+  font-size: 150%;
+  font-weight: 50;
+  margin-bottom: 0px; 
+}
+svg{
+  color: antiquewhite;
+}
